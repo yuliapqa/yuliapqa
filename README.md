@@ -11,7 +11,7 @@
 <div align="left">
 <img src="https://media.tenor.com/1Gr3R3CGLU4AAAAC/carrie-bradshaw.gif" width="600" height="300"/>
 </div>
-
+And Just Like That Ive found another bug...
 <div align="right" >
 
 

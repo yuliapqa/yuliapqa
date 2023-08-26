@@ -3,7 +3,7 @@
 <div align="left" >
 
 ### My name is [Yulia Pavlova](https://www.linkedin.com/in/yuliapavlova90/)    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-[![GitHub Yulia](https://img.shields.io/github/followers/yulia?label=follow&style=social)](https://github.com/yuliaqa)
+[![GitHub Yulia](https://img.shields.io/github/followers/yulia?label=follow&style=social)](https://github.com/yuliapqa)
 
   
 ## QA Software Engineer 
